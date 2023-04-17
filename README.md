@@ -1,8 +1,8 @@
 # _APIs & Asynchrony_
 
-#### By _**Eusebie Siebenberg**_
+#### By _**Jessica Hattig, Gareth Grindeland & Eusebie Siebenberg**_
 
-#### __
+####  _Application built to practice API calls using the OpenWeather API_
 
 ## Technologies Used
 
@@ -14,12 +14,11 @@
 * webpack version 4.46.0
 * npm version 8.1.2
 * Bootstrap version 5.2.3
-* ESLint version 8.18.0
-* Dillinger online markdown editor
+* Postman
 
 ## Description
 
-__
+_Practice lesson to learn about APIs using OpenWeather API, Postman_
 
 ## File Structure
 ```
