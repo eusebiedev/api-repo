@@ -20,29 +20,6 @@
 
 _Practice lesson to learn about APIs using OpenWeather API, Postman_
 
-## File Structure
-```
-template-repo/
-├── __tests__/
-│   ├── // Our test files go in __tests__/
-├── src/
-│   ├── // Our source code goes in src/
-│   ├── // The JS, CSS, and HTML files in here change from project to project
-│   ├── assets/ our images and other assets go here
-│   ├── css/
-│   ├── js/
-│   ├── index.js // We always need to include the entrypoint JS file called index.js
-│   └── index.html // We always need to include a template HTML file called index.html
-├── .gitignore
-├── package-lock.json
-├── package.json  // In this file we need to update the "name" key to the name of the project
-├── .eslintrc
-├── .babelrc
-├── webpack.config.js
-└── README.md
-```
-
-
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
@@ -97,7 +74,7 @@ $ npm run test
 
 ## [MIT](https://opensource.org/license/mit/)
 
-Copyright (c) 2023 Eusebie Siebenberg
+Copyright (c) 2023 Jessica Hattig, Gareth Grindeland, Eusebie Siebenberg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -117,4 +94,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-If you have any questions, comments, or concerns, please reach out to me at siebenee@gmail.com
+If you have any questions, comments, or concerns, please reach out to us at siebenee@gmail.com
