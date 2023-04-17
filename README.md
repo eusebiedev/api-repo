@@ -1,8 +1,8 @@
-# _Template Repository_
+# _APIs & Asynchrony_
 
 #### By _**Eusebie Siebenberg**_
 
-#### _A template showing the file structure for a new project._
+#### __
 
 ## Technologies Used
 
@@ -19,7 +19,8 @@
 
 ## Description
 
-_This is an template for a basic project repository with instructions on how to install node webpackages, loaders, and plugins. Use this project as a walkthrough to configure new webpacks or clone this repo and change file names and dependencies accordingly._
+__
+
 ## File Structure
 ```
 template-repo/
@@ -95,7 +96,7 @@ $ npm run test
 
 ## License
 
-MIT License
+## [MIT](https://opensource.org/license/mit/)
 
 Copyright (c) 2023 Eusebie Siebenberg
 
@@ -116,3 +117,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+If you have any questions, comments, or concerns, please reach out to me at siebenee@gmail.com
