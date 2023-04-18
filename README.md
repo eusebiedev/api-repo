@@ -1,6 +1,6 @@
 # _APIs & Asynchrony_
 
-#### By _**Jessica Hattig, Gareth Grindeland & Eusebie Siebenberg**_
+#### By _**Jessica Hattig, Gareth Grindeland, Marcus Kyung & Eusebie Siebenberg**_
 
 ####  _Application built to practice API calls using the OpenWeather API_
 
